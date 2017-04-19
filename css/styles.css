@@ -1,0 +1,15 @@
+img.header {
+  margin: auto;
+  display: block;
+}
+
+.flashy {
+  font-weight: bold;
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  border: 10px solid black;
+  padding: none;
+}
